@@ -1,0 +1,3 @@
+marco () {
+	export MARCO=$(pwd)
+}
